@@ -11,6 +11,7 @@
 ## 临床检验结果互认质量评价平台
 
 * [首页](cqb/index.md)
+* [互认项目](lin-chuang-jian-yan-jie-guo-hu-ren-zhi-liang-ping-jia-ping-tai/hu-ren-xiang-mu.md)
 
 ## 质控品订购系统
 
