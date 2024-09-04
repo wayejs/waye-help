@@ -1,11 +1,17 @@
 # Table of contents
 
-* [帮助中心](README.md)
+* [首页](index.md)
 
-## 全局
+## 省EQA
 
-* [开始](quan-ju/kai-shi.md)
+* [首页](eqa/index.md)
 
-## Group 1
+## 临床检验结果互认质量评价平台
 
-* [Page 1](group-1/page-1.md)
+* [首页](cqb/index.md)
+
+## 质控品订购系统
+
+* [首页](sps/index.md)
+
+* [更新日志](changelog.md)
